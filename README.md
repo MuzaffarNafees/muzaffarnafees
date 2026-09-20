@@ -1,45 +1,261 @@
 <h1 align="center">Hi 👋, I'm Muzaffar Nafees</h1>
-<h3 align="center">Software Developer</h3>
-<!-- <img align="left" width=400 src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> -->
+
+<h3 align="center">
+  SDET II • Automation Engineer • AI-Driven Testing
+</h3>
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <a href="https://github.com/muzaffarnafees">
+    <img src="https://komarev.com/ghpvc/?username=muzaffarnafees&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muzaffarnafees&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffarnafees" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzaffarnafees" alt="muzaffarnafees" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/nafeesmuzaffar" target="blank"><img src="https://img.shields.io/twitter/follow/nafeesmuzaffar?logo=twitter&style=for-the-badge" alt="nafeesmuzaffar" /></a> </p>
-
-- 🔭 I’m currently working on **MERN**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 My portfolio website [https://muzaffarnafees.github.io/MyPortfolio/](https://muzaffarnafees.github.io/MyPortfolio/)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **muzaffarnafees536@gmail.com**
-
-  ---
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/nafeesmuzaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nafeesmuzaffar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muzaffarnafees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzaffarnafees" height="30" width="40" /></a>
-<a href="https://instagram.com/muzaffar.nafees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzaffar.nafees" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muzaffarnafees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muzaffarnafees" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muzaffar_nafees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muzaffar_nafees" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@muzaffar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@muzaffar12" height="30" width="40" /></a>
+  <img width="420" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffarnafees&show_icons=true&locale=en&layout=compact" alt="muzaffarnafees" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffarnafees&show_icons=true&locale=en" alt="muzaffarnafees" /></p>
+I'm a **Software Development Engineer in Test (SDET II)** focused on building reliable, scalable, and maintainable test automation solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzaffarnafees&" alt="muzaffarnafees" /></p>
+I have hands-on experience across **Healthcare, EdTech, and Supply Chain** domains, working with modern automation frameworks, API testing, BDD, CI/CD, and AI-driven testing.
+
+- 🔭 Currently working as **SDET II**
+- 🧪 Specializing in **UI, API, Functional & Automation Testing**
+- 🎭 Automation with **Playwright, Cypress, Selenium & WebdriverIO**
+- ☕ Working with **Java, JavaScript & TypeScript**
+- 🤖 Exploring **AI-driven testing, LLM Testing & LLM Evaluation**
+- 🧩 Experienced with **BDD, Cucumber & Serenity BDD**
+- 🔌 API automation using **REST Assured & Postman**
+- 🚀 CI/CD automation using **GitHub Actions**
+- 📊 Test reporting with **Allure & Extent Reports**
+- 🗄️ Experience with **MySQL, MongoDB & SQLite**
+- ⚙️ Exploring **n8n & Agentic AI**
+- 🌱 Continuously learning and experimenting with **AI + Quality Engineering**
+
+---
+
+## 🧪 Testing & Automation
+
+### 🎭 UI Automation
+
+- Playwright
+- Cypress
+- Selenium WebDriver
+- WebdriverIO
+- Page Object Model (POM)
+- Cross-browser Testing
+- End-to-End Testing
+- Dynamic Locators
+- File Upload / Download Automation
+- Multi-tab & Window Handling
+- Synchronization & Custom Wait Utilities
+
+### 🔌 API & Backend Testing
+
+- REST API Testing
+- REST Assured
+- Postman
+- API Automation
+- Request / Response Validation
+- JSON Validation
+- Status Code Validation
+- Authentication & Authorization Testing
+
+### 🧩 BDD & Test Frameworks
+
+- Cucumber
+- Gherkin
+- Serenity BDD
+- TestNG
+- JUnit
+- Page Object Model
+- Data-Driven Testing
+- Parameterized Testing
+- Reusable Test Utilities
+
+### 🔍 Testing Practices
+
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Integration Testing
+- System Testing
+- Exploratory Testing
+- Ad-hoc Testing
+- UI Testing
+- API Testing
+- Cross-browser Testing
+- End-to-End Testing
+- Negative Testing
+- Data Validation
+
+---
+
+## 🤖 AI & Modern Testing
+
+Currently exploring the intersection of **Artificial Intelligence and Software Quality Engineering**.
+
+- 🧠 LLM Testing
+- 🔍 LLM Evaluation
+- 🤖 Agentic AI
+- 🧪 AI-assisted Test Automation
+- 📋 Prompt Testing & Evaluation
+- 🔄 AI-powered Testing Workflows
+- ⚙️ n8n Automation
+- 🧩 Testing AI-powered Applications
+
+> **Building the next generation of intelligent quality engineering workflows.**
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+
+</p>
+
+**Java • JavaScript • TypeScript • Python • C++ • C**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧪 Testing & Automation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="45" height="45" alt="Playwright"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="45" height="45" alt="Cypress"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
+</p>
+
+`Playwright` `Cypress` `Selenium` `WebdriverIO` `Cucumber` `Serenity BDD` `REST Assured` `Postman`
+
+---
+
+### 🚀 CI/CD & Version Control
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
+
+</p>
+
+`Git` `GitHub` `GitHub Actions` `Maven`
+
+---
+
+### 📊 Reporting & Quality
+
+`Allure Reports` `Extent Reports` `AssertJ` `Hamcrest`
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="MySQL"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" alt="MongoDB"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+
+</p>
+
+`MySQL` `MongoDB` `SQLite` `SQL`
+
+---
+
+### 🌐 Web Development
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+
+</p>
+
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express.js` `REST APIs`
+
+---
+
+## 🏗️ Automation Architecture
+
+```text
+                         ┌─────────────────────┐
+                         │      Test Cases     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Cucumber / BDD    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Step Definitions  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Page / API Layer  │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┼───────────────┐
+                    ▼               ▼               ▼
+               Playwright       Cypress         Selenium
+                    │               │               │
+                    └───────────────┼───────────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Test Reporting    │
+                         │  Allure / Extent    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    CI/CD Pipeline   │
+                         │   GitHub Actions    │
+                         └─────────────────────┘
